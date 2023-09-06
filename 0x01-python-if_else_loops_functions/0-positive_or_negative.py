@@ -7,4 +7,4 @@ elif number == 0:
     str = 'is zero'
 else:
     str = 'is negative'
-    print('{:d}'.format(number), str)
+print('{:d}'.format(number), str)

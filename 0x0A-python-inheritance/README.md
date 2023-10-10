@@ -1,12 +1,18 @@
 # Python_Inheritance
 ___
+# Resources
+### Read or watch:
 
+- [Inheritance](https://docs.python.org/3/tutorial/classes.html#inheritance)
+- [Multiple inheritance](https://docs.python.org/3/tutorial/classes.html#multiple-inheritance)
+- [Inheritance in Python](https://www.geeksforgeeks.org/inheritance-in-python/)
+- [Learn to Program 10 : Inheritance Magic Methods](https://www.youtube.com/watch?v=d8kCdLCi6Lk)
 
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), without the help of Google:
 
-
+## General
 * Why Python programming is awesome
 * What is a `superclass`, `baseclass` or `parentclass`
 * What is a `subclass`
@@ -20,9 +26,15 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * What is the purpose of inheritance
 * What are, when and how to use `isinstance`, `issubclass`, `type and super built-in functions`
 
-## Requirements
+## Copyright - Plagiarism
+- You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
+- You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
+- You are not allowed to publish any content of this project.
+- Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
-### Python Scripts
+# Requirements
+
+## Python Scripts
 * Allowed editors: `vi`, `vim`, `emacs`
 * All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
 * All your files should end with a new line
@@ -32,7 +44,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * All your files must be executable
 * The length of your files will be tested using `wc`
 
-### Python Test Cases
+## Python Test Cases
 * Allowed editors: vi, vim, emacs
 * All your files should end with a new line
 * All your test files should be inside a folder tests
@@ -45,4 +57,4 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 We strongly encourage you to work together on test cases, so that you don’t miss any edge case
 
 ## Documentation
-* Do not use the words import or from inside your comments, the checker will think you try to import some modules
+* Do not use the words `import` or `from` inside your comments, the checker will think you try to import some modules

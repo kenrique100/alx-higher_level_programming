@@ -22,10 +22,7 @@ You will also learn about:
 - Serialization/Deserialization
 - JSON
 
-![Python- Almost a Circle](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/331/giphy.mp4)
-### ___In this project, you will review everything about Python:___
-
-
+![ALT pic](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/331/giphy.mp4 "my pic")
 
 # Resources
 ### Read or watch:
@@ -34,11 +31,10 @@ You will also learn about:
 - [unittest module](https://docs.python.org/3.4/library/unittest.html#module-unittest)
 - [Python test cheatsheet](https://www.pythonsheets.com/notes/python-tests.html)
 
-## Learning Objectives
-![Obective](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoCQNdvPIOxcgtvZNm61ilIzpAqg4i35ftGg&usqp=CAU)
-+ At the end of this project, you are expected to be able to explain to anyone, without the help of Google.
+# Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), without the help of Google:
 
-## General
+# General
 - What is Unit testing and how to implement it in a large project
 - How to serialize and deserialize a Class
 - How to write and read a JSON file

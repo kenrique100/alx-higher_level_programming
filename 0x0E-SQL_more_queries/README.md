@@ -126,4 +126,4 @@ id  name
 8   Thriller
 $
 ```
-![Alt text](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/3/bc2575fee3303b731031.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231115%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231115T094415Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=092068cc174b607ce8358a7255f3241d5604ab018535efb103826c5b81d39bba)
+![Alt text](image.png)

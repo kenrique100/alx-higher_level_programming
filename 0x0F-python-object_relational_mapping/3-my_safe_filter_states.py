@@ -7,7 +7,6 @@ from the database `hbtn_0e_0_usa`.
 This time the script is safe from
 MySQL injections!
 """
-
 import MySQLdb as db
 from sys import argv
 
